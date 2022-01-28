@@ -1,3 +1,6 @@
+![Coding Academy Logo](/assets/logo.png)
+
+
 # Coding Academy
 
 ### Explore a career in coding and programming with Coding Academy
