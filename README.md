@@ -14,3 +14,7 @@ Coding Academy ensures inclusive and equitable quality education and promotes li
 Our mission? To build the world’s largest platform for all ages to encourage innovation and positive change through computers. 
 Coding Academy’s mission is to diversify and educate people worldwide.
 We are trying to make the world a better place for everyone with the resources that we have.
+
+## Get in Touch
+[Youtube Channel](https://www.youtube.com/channel/UC9xQ06-ObRbAIqk4OUnlXeg)<br />
+[Instagram](https://www.instagram.com/coding_academy_/)<br />
